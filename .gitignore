@@ -1,0 +1,11 @@
+# Exclude all PDF files
+*.pdf
+
+# Also exclude data/ folder (if it contains generated PDFs)
+data/
+
+# Exclude any other large binaries
+*.zip
+*.tar.gz
+*.rar
+*.7z
